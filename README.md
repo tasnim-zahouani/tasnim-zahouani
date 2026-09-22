@@ -1,35 +1,98 @@
-## Hi there, I'm Tasnim👋
+<img width="720" height="200" alt="☆" src="https://github.com/user-attachments/assets/d3e53e4c-10a1-495b-8564-0baf1acf616c" />
 
-### Full-Stack Developer & AI Engineering Student
 
-I am a final-year Master's student in **MIASHS** (Mathématiques et Informatique Appliquées aux Sciences Humaines et Sociales) at Université Grenoble Alpes, specializing in Human-Computer Interaction (IHM) and Artificial Intelligence. I love bridging the gap between complex data/AI logic and clean, functional web architectures.
 
- **Currently seeking a 6-month end-of-studies internship** in Full-Stack Development or Applied AI (starting early 2027).
+<div align="center">
+  <h1>Tasnim</h1>
+</div>
+
+<div align="center">
+  <sup>Backend Developer &nbsp;·&nbsp; API & Systems Integration </sup>
+  <br/><br/>
+  
+  <table border="0">
+    <tr>
+      <td valign="middle" align="center">
+<pre>
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣤⡀⢢⣄⠀⢰⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣶⠀⣤⠈⣁⣘⣛⠳⠄⠃⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣠⣤⣤⡀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠣⠰⣦⡀⣿⣿⠟⠳⣄⠀⠆⠄⡲⠿⢿⡿⠋⠀⠀⠀⠀⢀⡠⠶⠛⠉⠁⠀⠀⠈⢣
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⠘⣿⡇⢻⡇⠀⠀⠸⡆⠀⢀⡠⠖⠁⠀⠀⠀⠀⡠⠖⠉⠀⠀⠀⠀⠀⠀⠀⠀⢠
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⡢⢈⠳⢀⠻⣄⠀⠀⠁⠈⠀⠉⣿⡟⠃⡀⠐⠁⠀⠀⠀⠀⠀⢀⠖⠐⠀⠀⠀⡌
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣾⡋⠁⠀⢀⡀⠅⠈⢡⠀⠤⠶⠶⠚⢉⠄⠈⠀⠀⠀⠀⠀⠀⠀⠀⠘⣦⣀⢀⡠⠎⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠛⠛⠉⢁⠃⡜⢀⡇⡴⠺⣇⠠⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠁⠀⠀⠀
+⠀⣠⠶⠛⠛⠛⠲⠤⣄⠀⠀⠀⠀⠀⠀⠀⣾⣿⣷⠎⠀⠉⠉⡷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣼⠃⠀⠀⠀⠀⠀⠀⠀⠑⢦⠀⠀⠀⠀⠀⠘⠋⠀⠀⠀⠀⢠⡇⠀⠀⠀⠀⠀⢀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⡇⠀⠀⣠⠖⢤⠀⠀⠀⠀⠀⠑⡄⠀⠀⠀⠀⠀⡆⢄⠀⢀⠎⠀⢀⠀⠐⠀⠁⠀⣀⣀⠀⠑⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⢣⠀⠀⠣⠀⠀⡆⠀⠀⠀⠀⠀⠘⡀⠀⠀⠀⠀⠈⢒⠕⠓⠒⠉⠀⠀⠀⠀⠀⠌⠀⠀⠃⢀⠏⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠣⢀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⠀⠀⠀⡠⠂⠡⠁⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠒⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡠⠔⠁⢀⠔⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⢺⠀⠠⠐⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡃⡸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+</pre>
+      </td>
+    </tr>
+  </table>
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B1A3D8DB&width=435&lines=.%E2%98%98%EF%B8%8E++seeking+a+6+months+internship!;%E2%80%94++starting+february-march+2027!+%E2%8B%86.%CB%9A+%E2%98%85)](https://git.io/typing-svg)
+</div>
+
+<br/>
+
+## about-me
+
+I'm Tasnim — a final-year MIASHS Master's student at Université Grenoble Alpes, specialising in Human-Computer Interaction (HMI) and data logic. I build robust backend architectures, design clean RESTful APIs, and connect services with practical data pipelines. Currently seeking a 6-month end-of-studies internship in Backend Development or API Integration starting early 2027.
+
+<div align="center">
+
+<sub>_______________________________________________________________________________________</sub><br/><br/>
+
+![Python](https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=FFDE57)
+![FastAPI](https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=009688)
+![PHP](https://img.shields.io/badge/PHP-0f172a?style=flat-square&logo=php&logoColor=777BB4)
+![Laravel](https://img.shields.io/badge/Laravel-0f172a?style=flat-square&logo=laravel&logoColor=FF2D20)
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=4479A1)
+![REST APIs](https://img.shields.io/badge/REST_APIs-0f172a?style=flat-square&logo=json&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=F05032)
+![Postman](https://img.shields.io/badge/Postman-0f172a?style=flat-square&logo=postman&logoColor=FF6C37)
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Linux](https://img.shields.io/badge/Linux-0f172a?style=flat-square&logo=linux&logoColor=FCC624)
+![Jupyter](https://img.shields.io/badge/Jupyter-0f172a?style=flat-square&logo=jupyter&logoColor=F37626) 
+![C++](https://img.shields.io/badge/C++-0f172a?style=flat-square&logo=c%2B%2B&logoColor=00599C)
+
+<sub>`˖⊹𖥔 > NLP, LLM, HMI</sub>
+
+</br>
+</br>
+
+</div>
 
 ---
 
-### What I do
-*   **Full-Stack Web:** Building MVC architectures and RESTful APIs using modern JavaScript/TypeScript frameworks.
-*   **Data & AI:** Text mining (Fouille de Texte), Natural Language Processing, and applied algorithmic logic.
-*   **Current Focus:** Deepening my expertise in React, Node.js, and integrating AI features into web apps.
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=tasnim-zahouani&theme=modern-lilac2&short_numbers=true&date_format=j%20M%5B%20Y%5D&mode=weekly&exclude_days=Sun%2CSat&card_width=496&card_height=170)](https://git.io/streak-stats)
 
 ---
 
-### Tech Stack
+</div>
 
-**Frontend:**  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5/CSS3](https://img.shields.io/badge/html5%20/%20css3-%231572B6.svg?style=for-the-badge&logo=html5&logoColor=white)
+<div align="center">
 
-**Backend & Databases:**  
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
+#### my contacts
 
-**Data & AI:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) )
+<sub>`˖⊹𖥔` Grenoble, Paris, Aix-en-Provence, France &nbsp;·&nbsp; [my email!](mailto:tasnim.zahouani88@mail.com) &nbsp;·&nbsp; </sub>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/tasnim-z-4b6416227/])
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tasnim.zahouani88@gmail.com)
 
-### Let's Connect
+</br></br>
+ִֶָ𓂃 ࣪˖ ִֶָ💻་༘࿐
 
-- **LinkedIn:** [linkedin.com/in
-- **Portfolio / CV:** 
-- **Email:** 
+</div>
+
+<img width="720" height="200" alt="☆" src="https://github.com/user-attachments/assets/d3e53e4c-10a1-495b-8564-0baf1acf616c" />
