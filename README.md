@@ -1,5 +1,7 @@
-<img width="720" height="200" alt="☆" src="https://github.com/user-attachments/assets/d3e53e4c-10a1-495b-8564-0baf1acf616c" />
 
+<div align="center">
+  <img width="720" height="200" alt="☆" src="https://github.com/user-attachments/assets/d3e53e4c-10a1-495b-8564-0baf1acf616c" />
+</div>
 
 
 <div align="center">
@@ -95,4 +97,6 @@ I'm Tasnim — a final-year MIASHS Master's student at Université Grenoble Alpe
 
 </div>
 
-<img width="720" height="200" alt="☆" src="https://github.com/user-attachments/assets/d3e53e4c-10a1-495b-8564-0baf1acf616c" />
+<div align="center">
+  <img width="720" height="200" alt="☆" src="https://github.com/user-attachments/assets/d3e53e4c-10a1-495b-8564-0baf1acf616c" />
+</div>
