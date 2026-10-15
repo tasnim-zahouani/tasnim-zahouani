@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <sup>MIASHS Student &nbsp;·&nbsp; API & Systems Integration </sup>
+  <sup>MIASHS Student &nbsp;·&nbsp; CS </sup>
   <br/><br/>
   
   <table border="0">
