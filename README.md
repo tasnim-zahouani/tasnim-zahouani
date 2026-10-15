@@ -45,7 +45,9 @@
 
 ## about-me
 
-I'm Tasnim — a final-year MIASHS Master's student at Université Grenoble Alpes, specialising in Human-Computer Interaction (HMI) and data logic. I build robust backend architectures, design clean RESTful APIs, and connect services with practical data pipelines. Currently seeking a 6-month end-of-studies internship in Backend Development or API Integration starting early 2027.
+I'm Tasnim — Final-year MIASHS Master's student (computer science + social sciences) at Université Grenoble Alpes.
+I'm looking for a **6-month end-of-studies internship starting early 2027** in backend development,
+API integration, QA automation or data engineering (Aix-en-Provence, Grenoble, Paris).
 
 <div align="center">
 
